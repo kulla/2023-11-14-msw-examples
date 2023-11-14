@@ -1,0 +1,20 @@
+{
+  "name": "2023-11-14-msw-examples",
+  "version": "0.0.0",
+  "private": true,
+  "description": "Code examples for mswjs.io for PRs",
+  "scripts": {
+    "test": "tsc --noEmit"
+  },
+  "author": "Stephan Kulla",
+  "license": "CC0-1.0",
+  "dependencies": {
+    "@types/lodash.isequal": "^4.5.8",
+    "lodash.isequal": "^4.5.0",
+    "msw": "^2.0.6"
+  },
+  "devDependencies": {
+    "prettier": "^3.1.0",
+    "typescript": "^5.2.2"
+  }
+}
